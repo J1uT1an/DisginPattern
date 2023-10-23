@@ -1,0 +1,5 @@
+<?xml version = "1.0"?>
+<!--配置文件 config.xml，在配置文件中存储了代理主题类的类名-->
+<config>
+    <className>com.luxintong.structuralPattern.proxy.ProxySearcher</className>
+</config>

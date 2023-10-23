@@ -1,0 +1,5 @@
+<?xml version = "1.0"?>
+<config>
+    <className>com.luxintong.behavioralPattern.strategy.ModCipher</className>
+    <!--    <className>com.luxintong.behavioralPattern.strategy.CaesarCipher</className>-->
+</config>

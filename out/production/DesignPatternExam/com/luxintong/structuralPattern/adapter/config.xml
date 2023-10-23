@@ -1,0 +1,10 @@
+<?xml version = "1.0"?>
+<config>
+    <!--    需要什么用什么-->
+
+    <!--    PoliceCarAdapter-->
+    <!--    <className>com.luxintong.structuralPattern.adapter.PoliceCarAdapter</className>-->
+
+    <!--    AmbulanceCarAdapter-->
+    <className>com.luxintong.structuralPattern.adapter.AmbulanceCarAdapter</className>
+</config>
